@@ -25,7 +25,7 @@
 
 <h3 align="left">連絡先(プラグインに関して急ぎの場合はこちらから)</h3>
 <p align="left">
-<a href="https://twitter.com/@tomato_sg20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tomato_sg20" height="30" width="40" /></a>
+<a href="https://twitter.com/tomato_sg20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tomato_sg20" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">言語やらToolやら:</h3>
