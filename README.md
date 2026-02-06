@@ -1,7 +1,7 @@
 ### Hello World 👋
 
-<h1 align="center">プロフィール 【無鹿】</h1>
-<h3 align="center">大学1年.ゲーム好き</h3>
+<h1 align="center">プロフィール 【無鹿(ムジカ)】</h1>
+<h3 align="center">大学3年.ゲーム好き</h3>
 
 <h2 align="left">プレイしているゲーム(⚠私が確認を取れた方のみフレンドを通しています。基本的にほぼ通します。随時更新予定)</h2>
 
@@ -11,22 +11,24 @@
 ・ブルーアーカイブ(Name:無鹿　/ フレンドコード:BFWMWFQV)<br>
 ・FF14(Name:muzika Quine)<br>
 ・ドラゴンクエストXオンライン体験版(Name:無鹿)<br>
-・ブルーリフレクションSun燦<br>
+・ブロスタ ※ほんとに始めたてのenjoy<br>
 ・フォートナイト(Name:とまとなべ〆  or  水煮缶トマト)⬅飽きた
 
 <h3 align="left">たまにやるやつ</h3>
 ・モンスターストライク(Name:月影翔裏β　ID:804,871,119,402)</br>
 ・妖怪ウォッチぷにぷに(Name:無鹿　キャラクタコード:f0unkt6a)</br>
-・星のドラゴンクエスト(Name:ムジカ　ID:AJRZVW6944)</br>
+・Pokemon GO
 ・ドラクエウォーク(Name:ムジカ　ID:8f1nualwmyjx)
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaesaruyo&label=Profile%20views&color=0e75b6&style=flat" alt="kaesaruyo" /> </p>
 
-- 🔭 現所属 **Gunma Univ. inf3**
+- 🔭 現所属 **どこかの国立大. 情報系**
 
-- 🌱 勉強中 **PHP,Java,大学数学(線形代数…)**
+- 🌱 勉強中 **PHP,Java,電子工作**
+
+- 大学ではヒューマンインタフェースやらVR含めメタバース等をぼちぼちと・・・ 
 
 
 <h3 align="left">言語やらToolやら:</h3>
